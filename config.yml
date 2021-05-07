@@ -13,7 +13,7 @@ params:
  # Price: "Only $100" # If your event is free, just comment this line
   Venue: "Coco Bongo"
   Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
+  City: ""
   State: "Quintana"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
